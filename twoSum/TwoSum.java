@@ -1,13 +1,16 @@
+package twoSum;
+
+import java.util.Arrays;
 import java.util.HashMap;
 
-class Solution {
+class TwoSum {
 
     public static void main(String[] args) {
         
-        int nums [] = {3,3};
+        int[] nums = {3,3};
         int target = 6;
 
-        System.out.println(twoSum(nums, target));
+        System.out.println(Arrays.toString(twoSum(nums, target)));
     }
 
     
@@ -25,6 +28,5 @@ class Solution {
             map.put(nums[i], i);
 
         } return new int[]{};
-
     }
 }
