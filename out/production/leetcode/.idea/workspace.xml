@@ -13,12 +13,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Go File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="GOROOT" url="file:///usr/lib/go-1.22" />
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -32,37 +37,88 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.PalindromeNumber.executor": "Run",
-    "Application.PivotIndex.executor": "Run",
-    "Application.ValidParentheses.executor": "Run",
-    "DefaultGoTemplateProperty": "Go File",
-    "Go Build.go build containsDuplicate.go.executor": "Run",
-    "Go Build.go build pivotIndex.go.executor": "Run",
-    "Go Build.go build validParentheses.go.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/marcelo/Documents/prometheus-grafana/app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FindCommonCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheTownJudge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommomPrefix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PivotIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicatesFromSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RomanToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.flipsToPwd.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.medium.addTwoNumbers2.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseList.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.timeNeededToBuyTickets.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;Go Build.go build checkIfPangram.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build containsDuplicate.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build findTheTownJudge.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build maximumNumberOfWords.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build pivotIndex.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build removeDuplicatesFromSortedArray.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build removeElement.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build romanToInteger.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build solution.go (1).executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build solution.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build validParentheses.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build wordPattern.go.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/marcelo/Documents/leetcode/timeNeededToBuyTickets&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.WordPattern">
-    <configuration name="PivotIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pivotIndex.PivotIndex" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/timeNeededToBuyTickets" />
+      <recent name="$PROJECT_DIR$/flipsToPwd" />
+      <recent name="$PROJECT_DIR$/reverseList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.medium.addTwoNumbers2.Solution">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.timeNeededToBuyTickets2073.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pivotIndex.*" />
+          <option name="PATTERN" value="easy.timeNeededToBuyTickets2073.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wordPattern.WordPattern" />
+    <configuration name="medium.addTwoNumbers2.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.addTwoNumbers2.Solution" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wordPattern.*" />
+          <option name="PATTERN" value="medium.addTwoNumbers2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vagas.flipsToPwd.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vagas.flipsToPwd.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vagas.flipsToPwd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,28 +161,28 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build containsDuplicate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build removeElement.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/containsDuplicate/containsDuplicate.go" />
+      <filePath value="$PROJECT_DIR$/removeElement/removeElement.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build pivotIndex.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build solution.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/pivotIndex/pivotIndex.go" />
+      <filePath value="$PROJECT_DIR$/flipsToPwd/solution.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build validParentheses.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build solution.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/validateParentheses/validParentheses.go" />
+      <filePath value="$PROJECT_DIR$/timeNeededToBuyTickets/solution.go" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -128,11 +197,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordPattern" />
-        <item itemvalue="Go Build.go build containsDuplicate.go" />
-        <item itemvalue="Go Build.go build pivotIndex.go" />
-        <item itemvalue="Application.PivotIndex" />
-        <item itemvalue="Go Build.go build validParentheses.go" />
+        <item itemvalue="Application.medium.addTwoNumbers2.Solution" />
+        <item itemvalue="Go Build.go build solution.go" />
+        <item itemvalue="Go Build.go build solution.go (1)" />
+        <item itemvalue="Application.vagas.flipsToPwd.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +226,32 @@
       <workItem from="1739067382759" duration="1673000" />
       <workItem from="1739139803060" duration="5993000" />
       <workItem from="1739188084179" duration="3556000" />
-      <workItem from="1739225788136" duration="2579000" />
+      <workItem from="1739225788136" duration="7978000" />
+      <workItem from="1739297063578" duration="4111000" />
+      <workItem from="1739358535425" duration="3109000" />
+      <workItem from="1739391643834" duration="65000" />
+      <workItem from="1739391734430" duration="13000" />
+      <workItem from="1742240314550" duration="5572000" />
+      <workItem from="1742252937874" duration="4211000" />
+      <workItem from="1742334268575" duration="9028000" />
+      <workItem from="1742426446913" duration="1553000" />
+      <workItem from="1742554653033" duration="604000" />
+      <workItem from="1742557958274" duration="1017000" />
+      <workItem from="1742858360912" duration="1217000" />
+      <workItem from="1742911226035" duration="2492000" />
+      <workItem from="1742937844556" duration="3210000" />
+      <workItem from="1742944921079" duration="6000" />
+      <workItem from="1742991186639" duration="9748000" />
+      <workItem from="1743018622372" duration="1064000" />
+      <workItem from="1743032342163" duration="4451000" />
+      <workItem from="1743082360236" duration="443000" />
+      <workItem from="1743181723729" duration="6219000" />
+      <workItem from="1743509583307" duration="51000" />
+      <workItem from="1743638492382" duration="1748000" />
+      <workItem from="1743702448483" duration="9507000" />
+      <workItem from="1743794380574" duration="3240000" />
+      <workItem from="1743809235318" duration="4729000" />
+      <workItem from="1743817526316" duration="782000" />
     </task>
     <servers />
   </component>
@@ -167,5 +260,9 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
